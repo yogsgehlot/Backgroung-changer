@@ -36,7 +36,7 @@ function App() {
             style={{ backgroundColor: "black" }}
             onClick={() => setColor("black")}
           >
-            bBlack
+            Black
           </button>
           <button
             className="outline-none px-4 py-1 rounded-full text-black shadow-lg"
